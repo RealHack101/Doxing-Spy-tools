@@ -20,5 +20,5 @@ AnyDesk is a remote desktop software that allows you to access and control remot
 
 ## Instructions
 
-The detailed instructions on how to use each tool and its ethical application will be provided in a separate file. Please refer to that file for further guidance on using these tools in a responsible manner.
+The detailed instructions on how to use each tool will be provided in a separate file. Please refer to that file for further guidance on using these tools in a responsible manner.
 
