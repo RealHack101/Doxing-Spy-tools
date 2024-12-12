@@ -1,7 +1,4 @@
 
-
-# SpyTools / Ethical Hacking Tools
-
 This collection includes several useful tools for ethical hacking, penetration testing, and reconnaissance. These tools are designed to help security professionals and ethical hackers gather information and identify vulnerabilities in a legal and responsible manner.
 
 ## Tools and Resources
@@ -18,7 +15,10 @@ Shodan is a search engine that helps you discover internet-connected devices wor
 ### 4. [AnyDesk](https://anydesk.com/)
 AnyDesk is a remote desktop software that allows you to access and control remote systems. While commonly used for IT support, it can also be utilized in ethical hacking scenarios for testing remote access vulnerabilities. It offers fast and secure remote connections.
 
+### 5. [Hydra](https://github.com/vanhauser-thc/thc-hydra)
+Hydra is a powerful and fast password-cracking tool. It supports a wide range of protocols like SSH, HTTP, FTP, and many others. Hydra is commonly used for brute-forcing login credentials for various services and applications.
+
 ## Instructions
 
-The detailed instructions on how to use each tool will be provided in a separate file. Please refer to that file for further guidance on using these tools in a responsible manner.
+The detailed instructions on how to use each tool and its ethical application will be provided in a separate file. Please refer to that file for further guidance on using these tools in a responsible manner.
 
